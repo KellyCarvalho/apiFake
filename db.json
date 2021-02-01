@@ -2,7 +2,7 @@
     "usuario":[
         {
             "nome":"Maria do Carmo Pereira dos Santos",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"mariaCPS@gmail.com",
             "senha":"345678",
             "cpf":"667.687.678-78",
@@ -10,7 +10,7 @@
             "id":1
         },{
             "nome":"Josefa Cardoso do Amaral",
-            "nick": "Josefa",
+            "nick":"Josefa",
             "email":"jose_amaral@gmail.com",
             "senha":"546423",
             "cpf":"435.768.980-34",
@@ -19,7 +19,7 @@
 
         },{
             "nome":"Júlia Florentino Moreira",
-            "nick": "Júlinha",
+            "nick":"Júlinha",
             "email":"juliasememail@gmail.com",
             "senha":"454332",
             "cpf":"587.932.456-09",
@@ -28,7 +28,7 @@
         },
         {
             "nome":"Larisa Bastos Juvito",
-            "nick": "Larissa",
+            "nick":"Larissa",
             "email":"lariBJ@gmail.com",
             "senha":"003020",
             "cpf":"123.456.789-12",
@@ -36,7 +36,7 @@
             "id":4
         },{
             "nome":"Camila Farias Barbosa",
-            "nick": "Larissa",
+            "nick":"Larissa",
             "email":"camila@outlook.com",
             "senha":"546438",
             "cpf":"213.546.879-12",
@@ -45,7 +45,7 @@
 
         },{
             "nome":"Alessandra Rodrigues Maia",
-            "nick": "Alessandra",
+            "nick":"Alessandra",
             "email":"alessandra@hotmail.com",
             "senha":"231423",
             "cpf":"591.537.546-65",
@@ -54,7 +54,7 @@
         },
         {
             "nome":"Tamires Claudino Borges",
-            "nick": "Tamires",
+            "nick":"Tamires",
             "email":"tamires@hotmail.com",
             "senha":"213456",
             "cpf":"789.213.546-98",
@@ -62,7 +62,7 @@
             "id":7
         },{
             "nome":"Cassandra Pinto Bezerra",
-            "nick": "Cassandra",
+            "nick":"Cassandra",
             "email":"cassandra@gmail.com",
             "senha":"231645",
             "cpf":"564.879.312-45",
@@ -71,7 +71,7 @@
 
         },{
             "nome":"Juliana Paes Atriz",
-            "nick": "Ju",
+            "nick":"Ju",
             "email":"juliana@hotmail.com",
             "senha":"3256er",
             "cpf":"147.528.639-56",
@@ -80,7 +80,7 @@
         },
         {
             "nome":"Florisvalda Florentina Ferreira Forsa",
-            "nick": "florisForsa",
+            "nick":"florisForsa",
             "email":"florisvalda@gmail.com",
             "senha":"1598ff",
             "cpf":"213.456.789-23",
@@ -88,7 +88,7 @@
             "id":10
         },  {
             "nome":"Maria do Carmo Pereira dos Santos",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"mariaCPS@gmail.com",
             "senha":"345678",
             "cpf":"667.687.678-78",
@@ -96,7 +96,7 @@
             "id":11
         },{
             "nome":"Josefa Cardoso do Amaral",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"jose_amaral@gmail.com",
             "senha":"546423",
             "cpf":"435.768.980-34",
@@ -105,7 +105,7 @@
 
         },{
             "nome":"Júlia Florentino Moreira",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"juliasememail@gmail.com",
             "senha":"454332",
             "cpf":"587.932.456-09",
@@ -114,7 +114,7 @@
         },
         {
             "nome":"Larisa Bastos Juvito",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"lariBJ@gmail.com",
             "senha":"003020",
             "cpf":"123.456.789-12",
@@ -122,7 +122,7 @@
             "id":14
         },{
             "nome":"Camila Farias Barbosa",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"camila@outlook.com",
             "senha":"546438",
             "cpf":"213.546.879-12",
@@ -131,7 +131,7 @@
 
         },{
             "nome":"Alessandra Rodrigues Maia",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"alessandra@hotmail.com",
             "senha":"231423",
             "cpf":"591.537.546-65",
@@ -139,7 +139,7 @@
             "id":16
         }, {
             "nome":"Tamires Claudino Borges",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"tamires@hotmail.com",
             "senha":"213456",
             "cpf":"789.213.546-98",
@@ -147,7 +147,7 @@
             "id":17
         },{
             "nome":"Cassandra Pinto Bezerra",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"cassandra@gmail.com",
             "senha":"231645",
             "cpf":"564.879.312-45",
@@ -156,7 +156,7 @@
 
         },{
             "nome":"Juliana Paes Atriz",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"juliana@hotmail.com",
             "senha":"3256er",
             "cpf":"147.528.639-56",
@@ -165,7 +165,7 @@
         },
         {
             "nome":"Florisvalda Florentina Ferreira Forsa",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"florisvalda@gmail.com",
             "senha":"1598ff",
             "cpf":"213.456.789-23",
@@ -173,7 +173,7 @@
             "id":20
         },{
             "nome":"Maria do Carmo Pereira dos Santos",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"mariaCPS@gmail.com",
             "senha":"345678",
             "cpf":"667.687.678-78",
@@ -181,7 +181,7 @@
             "id":21
         },{
             "nome":"Josefa Cardoso do Amaral",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"jose_amaral@gmail.com",
             "senha":"546423",
             "cpf":"435.768.980-34",
@@ -190,7 +190,7 @@
 
         },{
             "nome":"Júlia Florentino Moreira",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"juliasememail@gmail.com",
             "senha":"454332",
             "cpf":"587.932.456-09",
@@ -199,7 +199,7 @@
         },
         {
             "nome":"Larisa Bastos Juvito",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"lariBJ@gmail.com",
             "senha":"003020",
             "cpf":"123.456.789-12",
@@ -207,7 +207,7 @@
             "id":24
         },{
             "nome":"Camila Farias Barbosa",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"camila@outlook.com",
             "senha":"546438",
             "cpf":"213.546.879-12",
@@ -216,7 +216,7 @@
 
         },{
             "nome":"Alessandra Rodrigues Maia",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"alessandra@hotmail.com",
             "senha":"231423",
             "cpf":"591.537.546-65",
@@ -225,7 +225,7 @@
         },
         {
             "nome":"Tamires Claudino Borges",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"tamires@hotmail.com",
             "senha":"213456",
             "cpf":"789.213.546-98",
@@ -233,7 +233,7 @@
             "id":27
         },{
             "nome":"Cassandra Pinto Bezerra",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"cassandra@gmail.com",
             "senha":"231645",
             "cpf":"564.879.312-45",
@@ -242,7 +242,7 @@
 
         },{
             "nome":"Juliana Paes Atriz",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"juliana@hotmail.com",
             "senha":"3256er",
             "cpf":"147.528.639-56",
@@ -251,7 +251,7 @@
         },
         {
             "nome":"Florisvalda Florentina Ferreira Forsa",
-            "nick": "Maria do Carmo",
+            "nick":"Maria do Carmo",
             "email":"florisvalda@gmail.com",
             "senha":"1598ff",
             "cpf":"213.456.789-23",
