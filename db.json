@@ -19,6 +19,26 @@
             "senha":"4543",
             "cpf":"587932456",
             "id":3
+        },
+        {
+            "nome":"Kelly 2",
+            "email":"18kellycarvalho@gmail.com",
+            "senha":"234567",
+            "cpf":"66768767878",
+            "id":4
+        },{
+            "nome":"Amanda 2",
+            "email":"amanda.com",
+            "senha":"5464",
+            "cpf":"43576898034",
+            "id":5
+
+        },{
+            "nome":"Júlia 2",
+            "email":"juliasememail@gmail.com",
+            "senha":"4543",
+            "cpf":"587932456",
+            "id":6
         }
     ],
    "contas": [
